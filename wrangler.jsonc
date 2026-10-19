@@ -1,0 +1,8 @@
+{
+  // Settings for hosting on Cloudflare Workers (static site, no server code).
+  "name": "little-astronauts",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./dist"
+  }
+}
